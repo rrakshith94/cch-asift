@@ -1,2 +1,2 @@
 # cch-asift
-Object detection using Color Coherence(CCH) in Affine SIFT
+ASIFT-CCH : Increasing the ISFT distinctness by Color Co-ocurrence Histograms
